@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KLMoto</string>
+    <string name="parrafo">Ideal si usas tu moto para trabajar. Registra tus recorridos automáticamente y acumula la distancia recorrida. Para hacerlo, necesita permiso de ubicación y mantiene acceso a tu ubicacion permanente</string>
 </resources>
